@@ -1,0 +1,98 @@
+# JOHNCHARLESMONTI.COM PRIVATE USE LICENSE
+
+Copyright (c) 2026 John Charles Monti.  
+All rights reserved.
+
+## 1. Private Use Only
+
+This software, source code, documentation, configuration, assets, systems, services, scripts, network components, upgrade logic, DeepNScan-related materials, AppManager materials, and all associated files are licensed strictly for private use by:
+
+JOHNCHARLESMONTI.COM
+
+No other person, company, organization, system, domain, service, or entity is granted permission to use, copy, modify, distribute, host, sublicense, publish, sell, lease, reverse engineer, or otherwise exploit this software or any portion of it without prior written authorization from the copyright holder.
+
+## 2. Ownership
+
+All intellectual property rights, copyrights, trade secrets, system designs, workflows, upgrade procedures, network logic, application management logic, and related materials remain the exclusive property of John Charles Monti and/or JOHNCHARLESMONTI.COM.
+
+This license does not transfer ownership of the software or any related materials.
+
+## 3. Restrictions
+
+You may not:
+
+- Use this software outside JOHNCHARLESMONTI.COM private infrastructure.
+- Copy or redistribute this software.
+- Publish this software or any derivative work.
+- Modify the software for public, commercial, organizational, or third-party use.
+- Sell, rent, lease, sublicense, or provide this software as a service.
+- Use this software on any domain other than JOHNCHARLESMONTI.COM without written permission.
+- Remove copyright, license, author, ownership, or attribution notices.
+- Reverse engineer, decompile, extract, or attempt to derive proprietary logic from the software except where legally required.
+- Use the software to build competing systems, services, platforms, network scanners, management tools, or upgrade frameworks.
+
+## 4. Authorized Environment
+
+Authorized use is limited to private systems, private servers, private repositories, private network environments, and private administrative operations directly controlled by JOHNCHARLESMONTI.COM.
+
+This includes private development, private testing, private deployment, private DeepNScan network upgrade operations, and private AppManager operations solely for JOHNCHARLESMONTI.COM.
+
+## 5. No Public License Granted
+
+This is not an open-source license.
+
+No rights are granted under MIT, Apache, GPL, LGPL, BSD, MPL, Creative Commons, or any other public/open-source license unless explicitly stated in a separate written agreement signed by the copyright holder.
+
+The presence of this software in a repository, archive, package, deployment, server, or source control system does not imply public permission to use it.
+
+## 6. Confidentiality
+
+The software and associated materials may contain confidential, proprietary, operational, security-related, or infrastructure-related information.
+
+Any unauthorized access, disclosure, use, reproduction, or distribution is strictly prohibited.
+
+## 7. Security and Network Use
+
+Any DeepNScan, network scanning, upgrade, monitoring, automation, or management functions included in this software are authorized only for systems owned, operated, or explicitly controlled by JOHNCHARLESMONTI.COM.
+
+Use against third-party networks, systems, devices, services, domains, or infrastructure is prohibited unless separate written authorization exists.
+
+## 8. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, ACCURACY, RELIABILITY, AVAILABILITY, AND ERROR-FREE OPERATION.
+
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO THE SOFTWARE, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, SECURITY INCIDENTS, SERVICE INTERRUPTIONS, SYSTEM FAILURES, NETWORK FAILURES, OR UNAUTHORIZED USE.
+
+## 10. Termination
+
+Any unauthorized use immediately terminates any permission that may have been granted.
+
+Upon termination or discovery of unauthorized use, the user must immediately stop using the software and destroy all copies, forks, derivatives, deployments, backups, and related materials.
+
+## 11. Written Permission
+
+Permission for any use outside the scope of this license must be obtained in writing from the copyright holder.
+
+Requests for permission must clearly identify:
+
+- The requesting person or organization.
+- The intended use.
+- The systems, domains, or environments involved.
+- Whether modification, distribution, hosting, or commercial use is requested.
+
+No permission is valid unless granted in writing by the copyright holder.
+
+## 12. Governing Terms
+
+This license is intended to protect private software, private infrastructure, private network upgrade systems, and private operational materials belonging to JOHNCHARLESMONTI.COM.
+
+If any provision of this license is found unenforceable, the remaining provisions remain in full force and effect.
+
+---
+
+JOHNCHARLESMONTI.COM PRIVATE USE ONLY  
+Unauthorized use, copying, distribution, or modification is prohibited.
