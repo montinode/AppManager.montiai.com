@@ -1,0 +1,73 @@
+{
+  // ──────────────────────────────────────────────────────────────
+  //  MONTI-AI ︳ AppManager Dev Container
+  //  ------------------------------------------------------------
+  //  Author  : JOHN CHARLES MONTI (@montinode)
+  //  Purpose : Consistent local & Codespaces environment for
+  //            Python 3 + Node / web builds of AppManager.montiai.com
+  //  Tier    : IMMORTAL_TIER  (Proprietary)
+  // ──────────────────────────────────────────────────────────────
+  "name": "montiai-appmanager",
+
+  // Base image (includes Python 3.10 & git).  
+  // Node will be layered in via a “feature” so we keep things small.
+  "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
+
+  // Extra features layered at build-time
+  "features": {
+    // Node.js 20 LTS
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    },
+
+    // Docker-in-Docker (optional – switch to false if not needed)
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest"
+    },
+
+    // Latest Git CLI – useful in Codespaces when image’s git lags
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+
+  // Post-create: install Python + Node deps if present
+  "postCreateCommand": "pip install -r requirements.txt || true && npm install --silent || true",
+
+  // A friendly banner whenever the container starts
+  "postStartCommand": "echo '✅  MontiAI AppManager DevContainer ready 🚀'",
+
+  // Recommended VS Code settings & extensions for anyone who opens
+  // the folder in a devcontainer/Codespace
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "editor.formatOnSave": true
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-azuretools.vscode-docker",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "redhat.vscode-yaml"
+      ]
+    }
+  },
+
+  // Use the standard non-root user that the base images provide
+  "remoteUser": "vscode",
+
+  // Helpful Docker run flags (optional)
+  "runArgs": [
+    "--init",
+    "--cap-add=SYS_PTRACE",
+    "--security-opt",
+    "seccomp=unconfined"
+  ],
+
+  // Mount local SSH keys into the container for private-repo access
+  "mounts": [
+    "source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,type=bind,target=/home/vscode/.ssh,consistency=cached"
+  ]
+}
