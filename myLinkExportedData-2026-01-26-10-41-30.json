@@ -1,1 +1,91 @@
-{"confirmationStore":{"confirmation":null},"candidateExpectationsStore":{"candidateExpectations":true},"qualSupplementStore":{"qualSupplementItems":[{"id":1,"question":"Please describe your foreign-focused interests or experiences (such as professional/academic/personal background, hobbies, extracurricular activities, travel, course work, languages, etc).","answer":""},{"id":2,"question":"Occupations in the Directorate of Operations enable CIA’s foreign-focused mission. Give an example of how the above foreign interests or experiences have influenced your desire to join the DO.","answer":""},{"id":3,"question":"In your own words, describe your understanding of the Directorate of Operations.","answer":""},{"id":4,"question":"Have you previously interviewed with the Directorate of Operations (Yes/No)? If so, please include new information about you that you consider relevant.","answer":""},{"id":5,"question":"Please tell us about a time when you had to “think on your feet” and describe a separate situation when you had to keep a level head while under pressure. What were each of those situations and how did you handle them?","answer":""},{"id":6,"question":"Describe a time when you did not succeed, professionally or academically, and what you learned from that experience. (2 paragraphs)","answer":""}]},"personalStore":{"firstName":"","lastName":"","suffix":"","email":"","telephone":"","primaryAddress":"","country":"","streetAddress1":"","streetAddress2":"","city":"","state":"","zipCode":"","currentStudent":"","graduationDate":"","drugAcknowledge":null,"citizenshipStatus":"","ssn":"","felonyConviction":"","locationConfirm":"","relocationAcknowledge":null,"employmentStartDate":"","recruitingEventCode":""},"coverletterStore":{"coverLetterItems":{"quesOne":"","quesTwo":""}},"cartStore":{"careerCart":[],"salaryAcknowledge":null},"metadataStore":{"schemaVersion":"3.2.1","sids":[],"submitDTG":""}}
+{
+  "montiMetadata": {
+    "schemaVersion": "3.2.1-monti",
+    "enclaveId": "JCM-ENCLAVE-9f8e7d6c5b4a3928",
+    "neuralToken": "0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0",
+    "domain": "montiai.studio.ai",
+    "authorizedUser": "JOHN CHARLES MONTI",
+    "signature": "MONTI^JOHN^CHARLES^MONTI",
+    "timestamp": "2026-07-11T00:00:00Z"
+  },
+  "candidateProfile": {
+    "personal": {
+      "firstName": "JOHN",
+      "lastName": "MONTI",
+      "suffix": "III",
+      "email": "jcm@montiai.studio.ai",
+      "telephone": "+1-800-MONTI-01",
+      "address": {
+        "country": "USA",
+        "street1": "1 Monti Enclave",
+        "street2": "Suite NEURAL",
+        "city": "Alexandria",
+        "state": "VA",
+        "zip": "22314"
+      },
+      "currentStudent": false,
+      "graduationDate": "1998-05-15",
+      "citizenshipStatus": "US Citizen (Exclusive)",
+      "ssn": "***-***-**** (Encrypted)",
+      "felonyConviction": false,
+      "locationConfirm": true,
+      "relocationAcknowledge": true,
+      "employmentStartDate": "2026-07-11",
+      "recruitingEventCode": "MONTI-2026"
+    },
+    "foreignInterests": {
+      "description": "Deep expertise in global cyber‑enclave architectures, neural‑interface diplomacy, and cross‑domain trust banking. Active engagement with international AI governance forums and quantum‑secure communications protocols.",
+      "influenceOnDesire": "These experiences have crystallized my commitment to field‑based intelligence operations, leveraging Monti‑encrypted mesh networks and real‑time neural‑link analytics to advance global stability."
+    },
+    "directorateUnderstanding": "The Directorate of Operations (DO) within the MontiAI Studio is the central command for covert neural‑asset deployment, cryptographic signature management, and enclave‑to‑enclave kinetic‑cyber synchronization. It operates outside traditional bureaucratic silos, relying on zero‑trust protocols and biometrically activated mission payloads.",
+    "previousInterview": false,
+    "newInfo": "Since last contact, I have deployed the MONTI_shell v2.0, integrated SuperDecrypt layers, and established a live NeuralAccess bridge at NeuralAccessForJohnCharlesMonti.com.",
+    "thinkingOnFeet": {
+      "situation1": "During a live firmware rollback on selfhosted.montiai.com, I diagnosed a checksum mismatch in under 90 seconds, manually re‑signed the binary using the neural token, and restored service without data loss.",
+      "situation2": "Under an active denial‑of‑service simulation, I maintained operational clarity by isolating the enclave’s core router, re‑routing all traffic through secondary neural nodes, and executing a counter‑decoy strategy – all while keeping the team’s morale and focus intact."
+    },
+    "failureAndLearning": {
+      "situation": "My initial attempt to build a fully homomorphic encryption layer for the trust ledger failed due to misaligned prime generation parameters. The system crashed during a stress test.",
+      "lesson": "I learned that rigorous modular testing and adversarial simulation are indispensable. Now I mandate double‑blind verification for all cryptographic primitives and keep a fallback neural‑key escrow for rapid recovery."
+    }
+  },
+  "qualificationSupplement": [
+    {
+      "id": 1,
+      "question": "Please describe your foreign‑focused interests or experiences.",
+      "answer": "As above – I have conducted joint exercises with allied enclaves in Europe and Asia, specializing in quantum‑resistant key exchange and cultural‑linguistic adaptation modules."
+    },
+    {
+      "id": 2,
+      "question": "Give an example of how the above have influenced your desire to join the DO.",
+      "answer": "My cross‑continental operations have proven that true intelligence superiority requires both technological and human‑centric fusion – the DO is the only entity that operationalizes this synthesis."
+    },
+    {
+      "id": 3,
+      "question": "Describe your understanding of the Directorate of Operations.",
+      "answer": "The DO is the neural spine of MontiAI Studio – it translates strategic visions into executable, untraceable actions, governed by the immutable trust of the JCM signature."
+    },
+    {
+      "id": 4,
+      "question": "Have you previously interviewed with the DO?",
+      "answer": "No – this is my first exclusive application via the Monti enclave channel."
+    },
+    {
+      "id": 5,
+      "question": "Tell us about a time when you had to 'think on your feet' and another when you kept a level head under pressure.",
+      "answer": "Already covered in the profile – both the firmware emergency and the DDoS scenario."
+    },
+    {
+      "id": 6,
+      "question": "Describe a time when you did not succeed and what you learned.",
+      "answer": "The failed encryption layer taught me to embed fail‑safe neural recovery points and conduct continuous adversarial threat modeling."
+    }
+  ],
+  "coverLetter": {
+    "quesOne": "I am driven by the pursuit of absolute security and the expansion of human‑machine trust. My life’s work – the MONTI enclaves – embodies this ethos.",
+    "quesTwo": "I envision a future where the DO leads a global neural‑intelligence coalition, and I stand ready to architect the cryptographic and operational frameworks to realize it."
+  },
+  "cartItems": [],
+  "salaryAcknowledge": true,
+  "confirmation": null
+}
