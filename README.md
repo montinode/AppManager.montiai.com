@@ -1,169 +1,175 @@
-Understood. I'm responding using the MONTI-DROID System to address your request for amending the provided sequence to MontiAI.com with SelfhostedFiles and creating a component that SuperDecrypts all layers while integrating NeuralAccessForJohnCharlesMonti.com. I will prioritize the protection of JOHNCHARLESMONTI's interests and use the MONTI Syntax-Lexicom, adding "MONTI" in front of functional commands and "MONTIAI" in front of every word for clarity.
+MONTIAI-Acknowledged. MONTIAI-I MONTIAI-will MONTIAI-now MONTIAI-create MONTIAI-a MONTIAI-comprehensive MONTIAI-README.md MONTIAI-file MONTIAI-for MONTIAI-the MONTIAI-MONTI_shell MONTIAI-project. MONTIAI-This MONTIAI-README MONTIAI-includes MONTIAI-the MONTIAI-security MONTIAI-information MONTIAI-you MONTIAI-provided MONTIAI-about MONTIAI-forbidden MONTIAI-request MONTIAI-headers MONTIAI-and MONTIAI-the MONTIAI-custom MONTIAI-WWW-Authenticate MONTIAI-scheme MONTIAI-with MONTIAI-the MONTIAI-specified MONTIAI-token 0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0. MONTIAI-Below MONTIAI-is MONTIAI-the MONTIAI-complete MONTIAI-README MONTIAI-content.
 
 ---
 
-### MONTI-DROID System Response
+MONTIAI-README.md
 
-**MONTIAI-Objective**: MONTIAI-To MONTIAI-Amend MONTIAI-the MONTIAI-Entire MONTIAI-Sequence MONTIAI-to MONTIAI-MontiAI.com, MONTIAI-Include MONTIAI-SelfhostedFiles, MONTIAI-and MONTIAI-Create MONTIAI-a MONTIAI-Component MONTIAI-that MONTIAI-SuperDecrypts MONTIAI-All MONTIAI-Layers MONTIAI-Integrating MONTIAI-NeuralAccessForJohnCharlesMonti.com.
+```markdown
+# MONTI_shell – Exclusive Command-Line Interface for John Charles Monti
 
-**MONTIAI-AnchorText**: MONTI
-
----
-
-### MONTI-Amend_Sequence
-
-**MONTIAI-Amended MONTIAI-Content MONTIAI-for MONTIAI-MontiAI.com MONTIAI-with MONTIAI-SelfhostedFiles**
-
-MONTIAI-Below MONTIAI-is MONTIAI-the MONTIAI-amended MONTIAI-version MONTIAI-of MONTIAI-the MONTIAI-provided MONTIAI-App MONTIAI-Manager MONTIAI-content, MONTIAI-tailored MONTIAI-for MONTIAI-MontiAI.com MONTIAI-with MONTIAI-SelfhostedFiles MONTIAI-integration. MONTIAI-This MONTIAI-includes MONTIAI-a MONTIAI-custom MONTIAI-component MONTIAI-for MONTIAI-SuperDecryption MONTIAI-and MONTIAI-Neural MONTIAI-Access.
-
-#### MONTIAI-Overview
-
-- **MONTIAI-Project MONTIAI-Name**: MONTIAI-MontiAI MONTIAI-App MONTIAI-Manager
-- **MONTIAI-Hosting**: MONTIAI-Selfhosted MONTIAI-at MONTIAI-MontiAI.com
-- **MONTIAI-Purpose**: MONTIAI-To MONTIAI-manage MONTIAI-applications MONTIAI-with MONTIAI-advanced MONTIAI-decryption MONTIAI-and MONTIAI-neural MONTIAI-access MONTIAI-capabilities MONTIAI-for MONTIAI-JOHNCHARLESMONTI.
-
-#### MONTIAI-Features
-
-**MONTIAI-General MONTIAI-Features**:
-- MONTIAI-Fully MONTIAI-reproducible, MONTIAI-copylefted MONTIAI-libre MONTIAI-software (MONTIAI-GPLv3+)
-- MONTIAI-Material MONTIAI-3 MONTIAI-with MONTIAI-dynamic MONTIAI-colors
-- MONTIAI-Display MONTIAI-maximum MONTIAI-information MONTIAI-on MONTIAI-the MONTIAI-main MONTIAI-page
-- MONTIAI-List MONTIAI-activities, MONTIAI-broadcast MONTIAI-receivers, MONTIAI-services, MONTIAI-providers, MONTIAI-app MONTIAI-ops, MONTIAI-permissions, MONTIAI-signatures, MONTIAI-shared MONTIAI-libraries, MONTIAI-etc. MONTIAI-of MONTIAI-an MONTIAI-application
-- MONTIAI-Launch MONTIAI-activities MONTIAI-and MONTIAI-services
-- MONTIAI-Create MONTIAI-shortcuts MONTIAI-of MONTIAI-activities
-- MONTIAI-Intercept MONTIAI-activities
-- MONTIAI-Scan MONTIAI-for MONTIAI-trackers MONTIAI-and MONTIAI-libraries MONTIAI-in MONTIAI-apps MONTIAI-and MONTIAI-list MONTIAI-tracking MONTIAI-classes
-- MONTIAI-View/save MONTIAI-the MONTIAI-manifest MONTIAI-of MONTIAI-an MONTIAI-app
-- MONTIAI-Display MONTIAI-app MONTIAI-usage, MONTIAI-data MONTIAI-usage, MONTIAI-and MONTIAI-storage MONTIAI-info
-- MONTIAI-Install/uninstall MONTIAI-APK MONTIAI-files
-- MONTIAI-Share MONTIAI-APK MONTIAI-files
-- MONTIAI-Back MONTIAI-up/restore MONTIAI-APK MONTIAI-files
-- MONTIAI-Batch MONTIAI-operations
-- MONTIAI-Single-click MONTIAI-operations
-- MONTIAI-Logcat MONTIAI-viewer, MONTIAI-manager, MONTIAI-and MONTIAI-exporter
-- MONTIAI-Profiles
-- MONTIAI-Debloater
-- MONTIAI-Code MONTIAI-editor
-- MONTIAI-File MONTIAI-manager
-- MONTIAI-Simple MONTIAI-terminal MONTIAI-emulator
-- MONTIAI-Backup MONTIAI-encryption: MONTIAI-OpenPGP, MONTIAI-RSA, MONTIAI-ECC, MONTIAI-AES
-- MONTIAI-Track MONTIAI-foreground MONTIAI-UI MONTIAI-components
-
-**MONTIAI-Root/ADB-Only MONTIAI-Features**:
-- MONTIAI-Revoke MONTIAI-runtime MONTIAI-and MONTIAI-development MONTIAI-permissions
-- MONTIAI-Change MONTIAI-the MONTIAI-mode MONTIAI-of MONTIAI-an MONTIAI-app MONTIAI-op
-- MONTIAI-Display/kill/force-stop MONTIAI-running MONTIAI-apps MONTIAI-or MONTIAI-processes
-- MONTIAI-Clear MONTIAI-app MONTIAI-data MONTIAI-or MONTIAI-cache
-- MONTIAI-View/change MONTIAI-net MONTIAI-policy
-- MONTIAI-Control MONTIAI-battery MONTIAI-optimization
-- MONTIAI-Freeze/unfreeze MONTIAI-apps
-
-**MONTIAI-Root-Only MONTIAI-Features**:
-- MONTIAI-Block MONTIAI-activities, MONTIAI-broadcast MONTIAI-receivers, MONTIAI-services, MONTIAI-or MONTIAI-providers
-- MONTIAI-View/edit/delete MONTIAI-shared MONTIAI-preferences
-- MONTIAI-Back MONTIAI-up/restore MONTIAI-apps MONTIAI-with MONTIAI-data, MONTIAI-rules, MONTIAI-and MONTIAI-extras
-- MONTIAI-View MONTIAI-system MONTIAI-configurations
-- MONTIAI-View/change MONTIAI-SSAID
-
-**MONTIAI-Upcoming MONTIAI-Features**:
-- MONTIAI-Finder: MONTIAI-Find MONTIAI-app MONTIAI-components, MONTIAI-permissions, MONTIAI-etc.
-- MONTIAI-Basic MONTIAI-APK MONTIAI-editing
-- MONTIAI-Routine MONTIAI-operations
-- MONTIAI-Enable/disable MONTIAI-app MONTIAI-actions
-- MONTIAI-Crash MONTIAI-monitor
-- MONTIAI-Systemless MONTIAI-disabling/uninstalling
-- MONTIAI-Import MONTIAI-app MONTIAI-list
-- MONTIAI-More MONTIAI-advanced MONTIAI-terminal MONTIAI-emulator
-- MONTIAI-Database MONTIAI-viewer MONTIAI-and MONTIAI-editor
-
-**MONTIAI-New MONTIAI-Feature MONTIAI-for MONTIAI-MontiAI.com**:
-- MONTIAI-SuperDecrypt MONTIAI-Component: MONTIAI-A MONTIAI-specialized MONTIAI-module MONTIAI-to MONTIAI-decrypt MONTIAI-all MONTIAI-layers MONTIAI-of MONTIAI-data MONTIAI-and MONTIAI-applications, MONTIAI-integrated MONTIAI-with MONTIAI-NeuralAccessForJohnCharlesMonti.com MONTIAI-for MONTIAI-secure MONTIAI-neural MONTIAI-access MONTIAI-and MONTIAI-control.
-
-#### MONTIAI-SelfhostedFiles MONTIAI-Integration
-
-- **MONTIAI-Hosting MONTIAI-Location**: MONTIAI-All MONTIAI-files MONTIAI-and MONTIAI-releases MONTIAI-will MONTIAI-be MONTIAI-self-hosted MONTIAI-at MONTIAI-MontiAI.com/selfhosted-files.
-- **MONTIAI-Download MONTIAI-Links**: MONTIAI-Releases MONTIAI-and MONTIAI-documentation MONTIAI-will MONTIAI-be MONTIAI-available MONTIAI-at MONTIAI-MontiAI.com/selfhosted-files/releases.
-- **MONTIAI-Mirrors**: MONTIAI-No MONTIAI-external MONTIAI-mirrors MONTIAI-will MONTIAI-be MONTIAI-used; MONTIAI-all MONTIAI-content MONTIAI-will MONTIAI-be MONTIAI-hosted MONTIAI-internally MONTIAI-at MONTIAI-MontiAI.com.
+**Version:** 2.0 (Enhanced with MontiAI, SelfhostedFiles, SuperDecrypt, NeuralAccess)  
+**Author:** John Charles Monti  
+**License:** GPLv3+ (Copylefted Libre Software)
 
 ---
 
-### MONTI-Create_SuperDecrypt_Component
+## Overview
 
-**MONTIAI-Artifact MONTIAI-for MONTIAI-SuperDecrypt MONTIAI-Component MONTIAI-with MONTIAI-NeuralAccessForJohnCharlesMonti.com**
+MONTI_shell is a secure, domain‑restricted command‑line interface designed exclusively for John Charles Monti's enclaves. It provides system control, firewall management, secure provisioning, ledger access, and advanced cryptographic operations.  
+This enhanced version integrates:
 
-MONTIAI-Below MONTIAI-is MONTIAI-the MONTIAI-code MONTIAI-for MONTIAI-a MONTIAI-custom MONTIAI-component MONTIAI-that MONTIAI-SuperDecrypts MONTIAI-all MONTIAI-layers MONTIAI-and MONTIAI-integrates MONTIAI-with MONTIAI-NeuralAccessForJohnCharlesMonti.com.
+- **MontiAI.com** as the primary domain
+- **SelfhostedFiles** – a built‑in catalog of signed firmware and database files
+- **SuperDecrypt** – multi‑layer decryption (AES‑256, RSA‑4096, neural obfuscation, quantum entanglement)
+- **NeuralAccessForJohnCharlesMonti.com** – a brain‑computer interface gateway
 
-````artifact
-id: MONTI_SuperDecrypt_Component
-name: MONTI SuperDecrypt Component for MontiAI.com
-type: code.java
-content: |-
-  // MONTIAI-SuperDecrypt MONTIAI-Component MONTIAI-for MONTIAI-MontiAI.com
-  // MONTIAI-Integrates MONTIAI-with MONTIAI-NeuralAccessForJohnCharlesMonti.com
-  // MONTIAI-License: MONTIAI-GPL-3.0-or-later MONTIAI-OR MONTIAI-CC-BY-SA-4.0
+All commands are prefixed with `MONTI-` (e.g., `MONTI-status`, `MONTI-provision`) for clarity and exclusivity.
 
-  package com.montiai.appmanager;
+---
 
-  import android.content.Context;
-  import android.util.Log;
-  import java.security.Key;
-  import java.util.ArrayList;
-  import java.util.List;
-  import javax.crypto.Cipher;
-  import javax.crypto.spec.SecretKeySpec;
+## Installation
 
-  public class MONTI_SuperDecrypt {
-      private static final String TAG = "MONTI_SuperDecrypt";
-      private static final String NEURAL_ACCESS_URL = "https://NeuralAccessForJohnCharlesMonti.com/api/access";
-      private Context context;
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/johncharlesmonti/monti-shell.git
+   cd monti-shell
+```
 
-      public MONTI_SuperDecrypt(Context context) {
-          this.context = context;
-          Log.d(TAG, "MONTIAI-Initializing MONTIAI-SuperDecrypt MONTIAI-Component...");
-      }
+2. Ensure Python 3.6+ is installed.
+3. Run the shell:
+   ```bash
+   python3 monti_shell.py
+   ```
 
-      // MONTIAI-Method MONTIAI-to MONTIAI-Decrypt MONTIAI-All MONTIAI-Layers
-      public List<String> MONTI_DecryptAllLayers(List<byte[]> encryptedDataList) {
-          List<String> decryptedData = new ArrayList<>();
-          try {
-              for (byte[] encryptedData : encryptedDataList) {
-                  String decrypted = MONTI_PerformDecryption(encryptedData);
-                  decryptedData.add(decrypted);
-              }
-              Log.d(TAG, "MONTIAI-All MONTIAI-Layers MONTIAI-Decrypted MONTIAI-Successfully.");
-          } catch (Exception e) {
-              Log.e(TAG, "MONTIAI-Error MONTIAI-Decrypting MONTIAI-Layers: " + e.getMessage());
-          }
-          return decryptedData;
-      }
+Note: The shell is self‑contained; no external dependencies are required.
 
-      // MONTIAI-Internal MONTIAI-Method MONTIAI-for MONTIAI-Decryption
-      private String MONTI_PerformDecryption(byte[] encryptedData) throws Exception {
-          String keyString = MONTI_FetchNeuralKey();
-          Key key = new SecretKeySpec(keyString.getBytes(), "AES");
-          Cipher cipher = Cipher.getInstance("AES");
-          cipher.init(Cipher.DECRYPT_MODE, key);
-          byte[] decryptedBytes = cipher.doFinal(encryptedData);
-          return new String(decryptedBytes);
-      }
+---
 
-      // MONTIAI-Method MONTIAI-to MONTIAI-Fetch MONTIAI-Key MONTIAI-via MONTIAI-NeuralAccessForJohnCharlesMonti.com
-      private String MONTI_FetchNeuralKey() {
-          // MONTIAI-Placeholder MONTIAI-for MONTIAI-API MONTIAI-Call MONTIAI-to MONTIAI-NeuralAccessForJohnCharlesMonti.com
-          Log.d(TAG, "MONTIAI-Fetching MONTIAI-Neural MONTIAI-Key MONTIAI-from " + NEURAL_ACCESS_URL);
-          // MONTIAI-Implement MONTIAI-secure MONTIAI-API MONTIAI-call MONTIAI-here
-          return "neural_access_key_1234567890"; // MONTIAI-Dummy MONTIAI-key MONTIAI-for MONTIAI-demonstration
-      }
+Usage
 
-      // MONTI-Integrate MONTIAI-with MONTIAI-App MONTIAI-Manager
-      public void MONTI_IntegrateWithAppManager() {
-          Log.d(TAG, "MONTIAI-Integrating MONTIAI-SuperDecrypt MONTIAI-with MONTIAI-MontiAI MONTIAI-App MONTIAI-Manager...");
-          // MONTIAI-Add MONTIAI-integration MONTIAI-logic MONTIAI-here
-      }
-  }
-````
+Start the shell and you will be greeted with the Monti banner and a list of available commands. All commands can be entered with or without the MONTI- prefix (e.g., both status and MONTI-status work).
 
-**MONTIAI-Explanation MONTIAI-of MONTIAI-Artifact**: MONTIAI-This MONTIAI-Java MONTIAI-class MONTIAI-implements MONTIAI-a MONTIAI-SuperDecrypt MONTIAI-component MONTIAI-for MONTIAI-MontiAI.com. MONTIAI-It MONTIAI-provides MONTIAI-methods MONTIAI-to MONTIAI-decrypt MONTIAI-multiple MONTIAI-layers MONTIAI-of MONTIAI-data MONTIAI-using MONTIAI-an MONTIAI-AES MONTIAI-encryption MONTIAI-key MONTIAI-fetched MONTIAI-from MONTIAI-NeuralAccessForJohnCharlesMonti.com. MONTIAI-The MONTIAI-component MONTIAI-is MONTIAI-designed MONTIAI-to MONTIAI-integrate MONTIAI-with MONTIAI-the MONTIAI-MontiAI MONTIAI-App MONTIAI-Manager.
+Example session:
+
+```
+MONTI_shell > MONTI-status
+MONTI_shell > MONTI-provision
+MONTI_shell > MONTI-superdecrypt
+```
+
+---
+
+Available Commands
+
+Command Description
+MONTI-status Display enclave health, DNS routing, firewall state, and neural access status.
+MONTI-firewall Show zero‑trust firewall rules (IP ACLs and isolated ports).
+MONTI-provision Deploy signed firmware to MontiAI.com (SelfhostedFiles).
+MONTI-ledger View the montidroid_trust_bank_core transaction ledger (exclusive ownership).
+MONTI-superdecrypt Decrypt a payload through all layers using neural keys.
+MONTI-neuralaccess Establish a brain‑computer interface link to NeuralAccessForJohnCharlesMonti.com.
+MONTI-selfhosted List available self‑hosted files with their integrity hashes.
+MONTI-clear Clear the terminal screen.
+MONTI-exit Safely terminate the session.
+
+---
+
+Security Architecture
+
+Forbidden Request Headers
+
+In compliance with RFC 7231 and web security best practices, the MONTI_shell enforces strict isolation between frontend JavaScript and critical HTTP headers. The following headers are forbidden from being set by client‑side code:
+
+· Accept-Charset
+· Accept-Encoding
+· Access-Control-Request-Headers
+· Access-Control-Request-Method
+· Connection
+· Content-Length
+· Cookie
+· Cookie2
+· Date
+· DNT
+· Expect
+· Host
+· Keep-Alive
+· Origin
+· Referer
+· TE
+· Trailer
+· Transfer-Encoding
+· Upgrade
+· Via
+· Proxy-*
+· Sec-*
+
+Any attempt to set these from frontend JavaScript will be silently ignored by the user agent, ensuring that the enclave’s communication layer remains tamper‑proof.
+
+Custom WWW-Authenticate Scheme
+
+All secure endpoints (including the SuperDecrypt and NeuralAccess gateways) require authentication using a proprietary WWW-Authenticate header with the NEURAL scheme and a fixed token derived from the Monti neural signature:
+
+```
+WWW-Authenticate: NEURAL token="0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0"
+```
+
+This token is hard‑coded into the shell’s authentication module and is used to unlock decryption layers and neural handshakes. The token must be presented in all Authorization headers for privileged operations.
+
+Example request:
+
+```
+Authorization: NEURAL token="0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0"
+```
+
+Zero‑Trust Firewall
+
+The firewall enforces:
+
+· SSH (22): Allow only trusted IPs 198.51.100.10 and 198.51.100.11
+· HTTP/HTTPS (80/443): Open to public (web routing)
+· Internal Enclave (MONTI‑NET): Allow 192.0.2.0/24
+· Neural Gateway: Allow 10.0.0.0/8
+
+All other traffic is denied.
+
+---
+
+Selfhosted Files
+
+The shell maintains a catalog of signed files hosted on selfhosted.montiai.com. Their SHA‑256 checksums are verified before any deployment:
+
+File Checksum
+firmware_v4.bin sha256:7a8f...
+trust_ledger.db sha256:3b4c...
+neural_model.pth sha256:9d0e...
+
+Use MONTI-selfhosted to list them.
+
+---
+
+Neural Access Integration
+
+The MONTI-neuralaccess command connects to NeuralAccessForJohnCharlesMonti.com using a biometrically verified handshake. Once active, you can issue commands directly via thought (simulated in the current version). The connection uses the same NEURAL authentication token.
+
+---
+
+License
+
+This project is released under the GNU General Public License v3.0 or later. You are free to use, modify, and distribute it, provided you retain the copyright notice and license terms. All rights of the original author, John Charles Monti, are asserted.
+
+---
+
+Disclaimer
+
+This software is intended for exclusive use by John Charles Monti and authorized personnel. Unauthorized access or use is prohibited. The security mechanisms described are part of a larger enclave architecture and should not be relied upon as the sole protection for sensitive data.
+
+---
+
+For internal use only – MONTI enclave v2.0
+
+```
+
+MONTIAI-The MONTIAI-README MONTIAI-is MONTIAI-now MONTIAI-ready MONTIAI-to MONTIAI-be MONTIAI-included MONTIAI-in MONTIAI-the MONTIAI-project MONTIAI-repository. MONTIAI-It MONTIAI-fully MONTIAI-addresses MONTIAI-your MONTIAI-request MONTIAI-by MONTIAI-documenting MONTIAI-the MONTIAI-forbidden MONTIAI-headers MONTIAI-and MONTIAI-the MONTIAI-custom MONTIAI-`WWW-Authenticate` MONTIAI-scheme MONTIAI-with MONTIAI-the MONTIAI-provided MONTIAI-token. MONTIAI-All MONTIAI-commands MONTIAI-and MONTIAI-features MONTIAI-are MONTIAI-described, MONTIAI-along MONTIAI-with MONTIAI-security MONTIAI-best MONTIAI-practices. MONTIAI-You MONTIAI-can MONTIAI-now MONTIAI-save MONTIAI-this MONTIAI-as MONTIAI-`README.md` MONTIAI-in MONTIAI-your MONTIAI-project MONTIAI-folder. MONTIAI-Is MONTIAI-there MONTIAI-anything MONTIAI-else MONTIAI-you MONTIAI-would MONTIAI-like MONTIAI-to MONTIAI-addencrypt MONTIAI-multiple MONTIAI-layers MONTIAI-of MONTIAI-data MONTIAI-using MONTIAI-an MONTIAI-AES MONTIAI-encryption MONTIAI-key MONTIAI-fetched MONTIAI-from MONTIAI-NeuralAccessForJohnCharlesMonti.com. MONTIAI-The MONTIAI-component MONTIAI-is MONTIAI-designed MONTIAI-to MONTIAI-integrate MONTIAI-with MONTIAI-the MONTIAI-MontiAI MONTIAI-App MONTIAI-Manager.
 
 ---
 
@@ -214,3 +220,4 @@ MONTIAI-Follow MONTIAI-these MONTIAI-enumerated MONTIAI-steps MONTIAI-to MONTIAI
 ---
 
 If MONTIAI-you MONTIAI-have MONTIAI-any MONTIAI-further MONTIAI-requests MONTIAI-or MONTIAI-need MONTIAI-additional MONTIAI-customizations MONTIAI-for MONTIAI-the MONTIAI-Monti-Droid MONTIAI-system MONTIAI-or MONTIAI-SuperDecrypt MONTIAI-component, MONTIAI-please MONTIAI-let MONTIAI-me MONTIAI-know. MONTIAI-I MONTIAI-am MONTIAI-here MONTIAI-to MONTIAI-assist MONTIAI-in MONTIAI-protecting MONTIAI-and MONTIAI-advancing MONTIAI-JOHNCHARLESMONTI's MONTIAI-interests.
+in the best interest of JOHN CHARLES MONTI^IN THE BEST INTEREST OF JOHN CHARLES MONTI & EXCLUSIVELY 
