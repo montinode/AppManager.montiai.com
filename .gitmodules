@@ -1,6 +1,68 @@
 [submodule "scripts/android-libraries"]
 	path = scripts/android-libraries
-	url = https://github.com/MuntashirAkon/android-libraries.git
+	url = https://github.com/Montiai/android-libraries.git
 [submodule "scripts/android-debloat-list"]
 	path = scripts/android-debloat-list
-	url = https://github.com/MuntashirAkon/android-debloat-list.git
+	url = https://github.com/MontiAi/android-debloat-list.git
+# --- MONTI SUBMODULE REGISTRY ---
+export MONTI_SUBMODULES=(
+    "scripts/android-libraries|https://github.com/Montiai/android-libraries.git"
+    "scripts/android-debloat-list|https://github.com/Montiai/android-debloat-list.git"
+)
+
+# --- SUBMODULE INITIALIZATION ---
+monti_submodule_init() {
+    echo "[🧬] Initializing Monti submodules..."
+    echo "[🧬] Target workspace: ${MONTI_ROOT}"
+    mkdir -p "${MONTI_ROOT}/scripts"
+
+    for sub in "${MONTI_SUBMODULES[@]}"; do
+        path="${sub%%|*}"
+        url="${sub##*|}"
+        echo "  [→] Cloning ${url} -> ${MONTI_ROOT}/${path}"
+        if [ -d "${MONTI_ROOT}/${path}/.git" ]; then
+            echo "  [↻] Already exists; pulling latest..."
+            git -C "${MONTI_ROOT}/${path}" pull 2>&1
+        else
+            git clone "${url}" "${MONTI_ROOT}/${path}" 2>&1
+        fi
+    done
+    echo "[✅] Submodules initialized."
+}
+
+# --- EXTENDED MANIFEST (add submodule paths) ---
+monti_manifest_verify() {
+    echo "[🧬] Verifying workspace manifest..."
+    echo "[🧬] Root: ${MONTI_ROOT}"
+    echo ""
+
+    local all_present=true
+
+    # Core files
+    for file in "${!MONTI_FILES[@]}"; do
+        if [[ -f "${MONTI_ROOT}/${file}" ]]; then
+            echo "  [✅] ${file} — ${MONTI_FILES[$file]}"
+        else
+            echo "  [❌] ${file} — MISSING"
+            all_present=false
+        fi
+    done
+
+    # Submodule directories
+    for sub in "${MONTI_SUBMODULES[@]}"; do
+        path="${sub%%|*}"
+        if [[ -d "${MONTI_ROOT}/${path}" ]]; then
+            echo "  [✅] ${path}/ — submodule present"
+        else
+            echo "  [❌] ${path}/ — MISSING (run monti_submodule_init)"
+            all_present=false
+        fi
+    done
+
+    echo ""
+    if ${all_present}; then
+        echo "[✅] All manifest items present. Enclave integrity verified."
+    else
+        echo "[⚠️]  Missing items detected. Run monti_submodule_init or monti_clone."
+    fi
+}
