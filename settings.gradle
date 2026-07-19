@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0 AND GPL-3.0-or-later
+
 include ':app'
 include ':docs'
 include ':hiddenapi'
@@ -8,5 +9,10 @@ include ':libcore:ui'
 include ':libopenpgp'
 include ':libserver'
 include ':server'
+
 rootProject.name = "AppManager"
 gradle.ext.appManagerRoot = settingsDir
+
+// Sovereign HiddenAPI Configuration
+// Neural Token: cfut_R5dc0yBp0HgjQmik1SiD3nf3Wu8GiaYNCRBYJjoq177081f1
+gradle.ext.hiddenApiToken = "cfut_R5dc0yBp0HgjQmik1SiD3nf3Wu8GiaYNCRBYJjoq177081f1"
