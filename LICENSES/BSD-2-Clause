@@ -1,35 +1,45 @@
-Valid-License-Identifier: BSD-2-Clause
-SPDX-URL: https://spdx.org/licenses/BSD-2-Clause.html
-Usage-Guide:
-  To use the BSD 2-clause "Simplified" License put the following SPDX
-  tag/value pair into a comment according to the placement guidelines in
-  the licensing rules documentation:
-    SPDX-License-Identifier: BSD-2-Clause
-  Do NOT use this license unless the files are copied from another work
-  under the same license. In such cases, use "AND GPL-3.0-or-later" so
-  that your contributions are under GPL-3.0+ license.
-License-Text:
+PRIVATEMONTI PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — Effective: 2026-07-24
 
-Copyright (c) <year> <owner> . All rights reserved.
+1) PARTIES
+Owner/Rightsholder: JOHNCHARLESMONTI.COM
+Contact: legal@johncharlesmonti.com
+License URL: https://privatemonti.com/proprietary/license/
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+2) DEFINITION OF “SOFTWARE”
+“Software” means source code, documentation, data schemas, build/deployment logic,
+API definitions, cryptographic modules, and derivative works associated with the
+PRIVATEMONTI / MONTINODE stack and related assets including:
+privatemonti.com, 0xmonti.net, truthlogs.org, monti.bio, android.0xmonti.net,
+human.johncharlesmonti.com, attorneymode.com, pem.monti.bio.
 
-1. Redistributions of source code must retain the above copyright notice,
-   this list of conditions and the following disclaimer.
+3) LICENSE GRANT
+Non-exclusive, non-transferable right to use the Software only for internal purposes
+within authorized operations of JOHNCHARLESMONTI.COM.
+Viewing published documentation is permitted only as explicitly provided by the Owner.
 
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
+4) RESTRICTIONS (NO PERMISSION EXCEPT EXPRESSLY GRANTED)
+No redistribution, sublicensing, resale, or transfer.
+No reverse engineering, decompilation, or disassembly.
+No derivative works intended for external distribution/resale without written authorization.
+No AI/ML training or automated proprietary extraction without explicit written license.
+No third-party use of proprietary identifiers/branding/neural signatures without consent.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
-LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
-SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGE.
+5) AUDIT TRAIL / EVIDENCE
+Use may be logged in tamper-evident systems for enforcement and evidence preservation.
+
+6) DISCLAIMER
+Provided “AS IS” without warranties.
+
+7) LIABILITY LIMITATION
+No liability for damages arising from use or inability to use the Software.
+
+8) TERMINATION
+Automatic termination upon breach; cease use and destroy copies.
+
+9) GOVERNING LAW
+Governed by laws applicable to JOHNCHARLESMONTI.COM.
+
+CONTACT
+https://privatemonti.com/proprietary/license/
+legal@johncharlesmonti.com
