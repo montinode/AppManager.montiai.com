@@ -1,0 +1,100 @@
+{
+  "include": {
+    "Filenames": "AppManager.montiai.com/MONTI_ASSET_CORRELATION.json",
+    "Directories-Root": "repo-root (AppManager.montiai.com/)",
+    "FileType": ".json",
+    "250CharDescription": "Asset correlation registry linking required Monti asset domains to AppManager components for identity, PEM distribution, Android rendezvous, and attorney-mode policy gating. Used for wiring and integrity checks under $MONTI Junction."
+  },
+  "$MONTI_Junction": {
+    "name": "MONTIAI-AppManager.montiai.com",
+    "subject": "In-the-best-interest routing map (JOHN CHARLES MONTI only)"
+  },
+  "assets": [
+    {
+      "domain": "human.johncharlesmonti.com",
+      "role": "Identity-facing profile + exclusive UI context",
+      "mapped_to_repo_paths": [
+        "AppManager.montiai.com/*",
+        "AppManager.montiai.com/views/*"
+      ],
+      "expected_endpoints_style": [
+        "/",
+        "/status",
+        "/profile"
+      ]
+    },
+    {
+      "domain": "attorneymode.com",
+      "role": "Legal/license gating and attestation surfaces",
+      "mapped_to_repo_paths": [
+        "AppManager.montiai.com/policy/*",
+        "AppManager.montiai.com/legal/*"
+      ],
+      "expected_endpoints_style": [
+        "/license",
+        "/attest",
+        "/policy"
+      ]
+    },
+    {
+      "domain": "pem.monti.bio",
+      "role": "PEM/public-key distribution & verification endpoints",
+      "mapped_to_repo_paths": [
+        "AppManager.montiai.com/crypto/*",
+        "AppManager.montiai.com/verify/*"
+      ],
+      "expected_endpoints_style": [
+        "/pem",
+        "/public-key",
+        "/cert"
+      ]
+    },
+    {
+      "domain": "android.0xmonti.net",
+      "role": "Android client rendezvous, policy sync, and app manager handoff",
+      "mapped_to_repo_paths": [
+        "AppManager.montiai.com/android/*",
+        "AppManager.montiai.com/sync/*"
+      ],
+      "expected_endpoints_style": [
+        "/appmanager",
+        "/sync",
+        "/policy"
+      ]
+    }
+  ],
+  "correlation_with_repo": {
+    "source_repo": "https://github.com/montinode/AppManager.montiai.com/tree/master",
+    "mapping_strategy": "Domain-based wiring + route intent labeling",
+    "integration_points": [
+      {
+        "component": "AppManager entry",
+        "wires_to_assets": [
+          "human.johncharlesmonti.com",
+          "android.0xmonti.net"
+        ]
+      },
+      {
+        "component": "Policy/Legal gate",
+        "wires_to_assets": [
+          "attorneymode.com"
+        ]
+      },
+      {
+        "component": "Key verification / crypto validation",
+        "wires_to_assets": [
+          "pem.monti.bio"
+        ]
+      }
+    ]
+  },
+  "security_constraints": {
+    "offline_preference": true,
+    "no_secrets_in_files": true,
+    "telemetry_policy": "local-only unless explicitly authorized by owner policy"
+  },
+  "created": {
+    "date": "2026-07-24",
+    "timezone": "America/New_York"
+  }
+}
