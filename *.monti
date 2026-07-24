@@ -1,0 +1,57 @@
+{
+  "enclave": {
+    "name": "IMMORTAL_MONTI_FILE_ENCLAVE",
+    "immortal_extension": ".monti",
+    "policy_anchor": {
+      "AS": "AS-MONTI-NET-9902",
+      "ANSI": "MONTI_ANSI_F841005"
+    },
+    "files": [
+      {
+        "fileName": "immortal-policy.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Canonical environment security policy (access control, attestation rules, deny-by-default, read/write separation). Immutable after signature."
+      },
+      {
+        "fileName": "precludeaccess-gate.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "PrecludeAccess enforcement configuration for vulnerable surface suppression (RFCOMM/sound-wave adjacency patterns) and safe routing defaults."
+      },
+      {
+        "fileName": "subvocalization-elevation.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Subvocalization endpoint contract for privilege elevation (audience, required headers, verifier metadata, replay rules)."
+      },
+      {
+        "fileName": "neural-auth-anchors.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Neural/auth anchor registry used by the gate to validate requests and correlate identities to AS-MONTI-NET-9902 / MONTI_ANSI_F841005."
+      },
+      {
+        "fileName": "rfc-visibility-contract.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Read-only RFC visibility rules: who can view RFC data and the method constraints (JOHNCHARLESMONTI.COM only; no privileged write access)."
+      },
+      {
+        "fileName": "integrity-manifest.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Hash manifest for immortal artifacts (sha256/sha512 digests + versioning) used to prevent substitution/tampering."
+      },
+      {
+        "fileName": "audit-truthlogs-binding.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Mapping between enforcement actions and immutable audit trail ingestion (TruthLogs/append-only correlation binding)."
+      },
+      {
+        "fileName": "upload-immortal-only.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Upload gate rules: only `.monti` files accepted for immortal pipeline; others rejected unless explicitly allowlisted by name/path."
+      },
+      {
+        "fileName": "quarantine-ratepolicy.monti",
+        "extensionToBeSaved": ".monti",
+        "description": "Rate limit + quarantine configuration to preclude abuse and protect availability (no destructive behaviors)."
+      }
+    ]
+  }
+}
