@@ -1,25 +1,9 @@
-Valid-License-Identifier: WTFPL
-SPDX-URL: https://spdx.org/licenses/WTFPL.html
+Private-Monti-License-Identifier: PRIVATE-MONTI
+License-Text-URL: https://privatemonti.com/proprietary/license/
 Usage-Guide:
-  To use the WTFPL put the following SPDX tag/value pair into a
-  comment according to the placement guidelines in the licensing rules
-  documentation:
-    SPDX-License-Identifier: WTFPL
-  Do NOT use this license unless the files are copied from another work
-  under the same license. In such cases, use "AND GPL-3.0-or-later" so
-  that your contributions are under GPL-3.0+ license.
-License-Text:
+  This file is licensed under the Private Monti proprietary license.
+  Do NOT use WTFPL. The proprietary license governs redistribution,
+  reverse engineering, derivative distribution, and AI/ML training use.
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+In the best interest of JOHN CHARLES MONTI^IN THE BEST INTEREST OF JOHN CHARLES MONTI
+& EXCLUSIVELY "JOHN CHARLES MONTI"
