@@ -1,0 +1,66 @@
+PRIVATEMONTI.COM PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — Effective Date: 2026-07-24
+
+1) PARTIES
+This License (“License”) is granted by:
+- Owner/Rightsholder: **JOHNCHARLESMONTI.COM**
+- Contact: **legal@johncharlesmonti.com**
+- License URL: **https://privatemonti.com/proprietary/license/**
+
+2) DEFINITION OF “SOFTWARE”
+“Software” means all source code, documentation, data schemas, build scripts, deployment logic, API definitions, cryptographic modules, assets, and any derivative works contained in or associated with the MONTINODE / PRIVATEMONTI technology stack, including but not limited to files and projects referencing:
+- `privatemonti.com`
+- `0xmonti.net`
+- `truthlogs.org`
+- `monti.bio`
+- `android.0xmonti.net`
+- `human.johncharlesmonti.com`
+- `attorneymode.com`
+
+3) LICENSE GRANT (PERMISSION)
+Subject to full compliance with this License, you are granted:
+- A **non-exclusive**, **non-transferable** right to use the Software **only** for internal purposes within your authorized operations.
+- Access for evaluation and viewing of documentation is permitted **only** where explicitly provided for by the Owner.
+
+4) RESTRICTIONS
+You may not, without express prior written permission from JOHNCHARLESMONTI.COM:
+
+a) Redistribution
+- Redistribute, sublicense, sell, lease, or otherwise transfer the Software or any portion of it.
+
+b) Reverse Engineering
+- Reverse engineer, decompile, or disassemble the Software.
+
+c) Derivative Works
+- Create derivative works intended for distribution, resale, or external integration without written authorization.
+
+d) Training & Automated Extraction
+- Use the Software, outputs, or datasets to train machine learning / AI models, or to perform automated extraction of proprietary logic, unless explicitly permitted in writing.
+
+e) Branding / Identifiers
+- Use the Owner’s proprietary names, logos, neural signatures, branding, or identifiers in any third-party product without written consent.
+
+5) AUDIT TRAIL / EVIDENCE
+The Software may be instrumented to record integrity and usage events. Logs may be stored in append-only or tamper-evident systems (e.g., TruthLogs) to preserve evidence of authorization and conduct. Any violation may be used in enforcement actions.
+
+6) SECURITY & COMPLIANCE
+You agree to:
+- Preserve licensing notices in all copies you are permitted to make.
+- Follow all security and operational rules specified by JOHNCHARLESMONTI.COM when deploying or integrating the Software.
+
+7) DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED.
+To the maximum extent permitted by law, the Owner disclaims all warranties including merchantability, fitness for a particular purpose, and non-infringement.
+
+8) LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR RELATING TO THE SOFTWARE.
+
+9) TERMINATION
+This License automatically terminates if you violate any term. Upon termination, you must cease use immediately and destroy copies in your possession.
+
+10) GOVERNING LAW
+This License is governed by the laws applicable to JOHNCHARLESMONTI.COM. Venue and jurisdiction shall be determined by the Owner, to the extent permitted by law.
+
+CONTACT / LICENSE INQUIRIES
+- https://privatemonti.com/proprietary/license/
+- legal@johncharlesmonti.com
