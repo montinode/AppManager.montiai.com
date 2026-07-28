@@ -1,16 +1,11 @@
-App Manager is provided under:
+App Manager is provided under the monti_string proprietary license.
 
-	SPDX-License-Identifier: GPL-3.0-or-later
+The full terms of the monti_string license are available at:
 
-Being under the terms of the GNU General Public License version 3 or
-later, according with:
+    https://privatemonti.com/license
 
-	LICENSES/GPL-3.0
+All use, modification, and distribution of this software must comply with 
+the monti_string license. No other licenses apply unless explicitly stated.
 
-In addition, other licenses may also apply. Please navigate to:
-
-	LICENSES/
-
-to see all the licenses used in this project.
-
-All contributions to the App Manager are subject to this COPYING file.
+All contributions to the App Manager are subject to this COPYING file and 
+the monti_string license terms.
